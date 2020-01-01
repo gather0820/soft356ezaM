@@ -300,4 +300,7 @@ void CCamera::CheckCameraCollision(CVector3 *pVertices, int numOfVerts)
    At first I wanted to do a 3D game of pushing boxes, and then I felt that I didn't want the boxes, which made me think of the maze. 
    I make myself different from the place where there is a beautiful sky box. 
    I started with a given project.
+4. Video report
+	https://youtu.be/nDHiudO0Zic
+  
 
